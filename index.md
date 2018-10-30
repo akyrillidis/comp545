@@ -48,6 +48,8 @@ The course (i) will focus on different objective classes (convex vs. non-convex 
 (iii) will study algorithmic choices based on computational resources (e.g., use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, distributed algorithms, etc.)
 and (iv) lastly, will study schemes that handle some specific, but well-spread optimization constraints (sparsity, low-rankness).
 
+The main objective of the course is to highlight optimization as a vital part of contemporary research in ML/AI/SP, and draw the attention of students to open-questions in related topics. 
+In particular, the aim for students is to (i) learn how to distinguish differences in research papers of related fields, (ii) understand the connection between them and how researchers advance each area, and (iii) be able to consider possible extensions of these works, as part of the final (open-ended) project of the course. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
