@@ -48,8 +48,29 @@ The course (i) will focus on different objective classes (convex vs. non-convex 
 (iii) will study algorithmic choices based on computational resources (e.g., use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, distributed algorithms, etc.)
 and (iv) lastly, will study schemes that handle some specific, but well-spread optimization constraints (sparsity, low-rankness).
 
+### Textbook
+
+There is no textbook for the class. The class will be a collection of lectures, prepared by the instructor, as well as presentations of research papers available online. Links will be provided during the course.
+
+### Prerequisites
+
+Basics of calculus, linear algebra and basic knowledge of machine learning topics. 
+Programming skills are not necessary, but might be required, depending on the project selected at the end of the course.
+In the latter case, programming in Python/Matlab could be sufficient.
+
+During the first class, a quiz will be given to the students to assess their background; this quiz is going to be used for course content assessment (edits in the syllabus will possibly occur).
+
+### Course outcomes
+
 The main objective of the course is to highlight optimization as a vital part of contemporary research in ML/AI/SP, and draw the attention of students to open-questions in related topics. 
 In particular, the aim for students is to (i) learn how to distinguish differences in research papers of related fields, (ii) understand the connection between them and how researchers advance each area, and (iii) be able to consider possible extensions of these works, as part of the final (open-ended) project of the course. 
+
+After successful attendance, students are expected to: 
+- have a good understanding of the differences / difficulties of convex and non-convex optimization. 
+- have a good comprehension how optimization plays a key role in different areas of ML/AI/SP. 
+- have a first touch with various optimization-driven applications in ML/AI/SP. 
+- be able to read and review advanced papers on similar subjects, as well as present the papers in front of an audience. \end{itemize}
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
