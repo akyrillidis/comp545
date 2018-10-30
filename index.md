@@ -75,16 +75,25 @@ After successful attendance, students are expected to:
 Course Policies
 
 - During Class
-I understand that the electronic recording of notes will be important for class and so computers will be allowed in class. Please refrain from using computers for anything but activities related to the class. Drinking (coffee, tea, water) is allowed in class. Try not to eat your lunch in class as the classes are typically active.
+I understand that the electronic recording of notes will be important for class and so computers will 
+be allowed in class. Please refrain from using computers for anything but activities related to the 
+class. Drinking (coffee, tea, water) is allowed in class. Try not to eat your lunch in class as the 
+classes are typically active.
 
 - Policies on Late Assignments
-Assignments (scribing, reviews, project) should be turned on time. You receive a 10\% penalty for each day of delay, up to 2 days. No submissions after the 2 day grace period. Exceptions will be given to very extreme circumstances, with proper documentations.
+Assignments (scribing, reviews, project) should be turned on time. You receive a 10\% penalty for 
+each day of delay, up to 2 days. No submissions after the 2 day grace period. Exceptions will be 
+given to very extreme circumstances, with proper documentations.
 
 - Academic Integrity and Honesty
-Students are required to comply with the university policy on academic integrity found in the [Honor System Handbook]( http://honor.rice.edu/honor-system-handbook/).
+Students are required to comply with the university policy on academic integrity found in the 
+[Honor System Handbook]( http://honor.rice.edu/honor-system-handbook/).
 
-Accommodations for Disabilities
-If you have a documented disability that may affect academic performance, you should: 1) make sure this documentation is on file with Disability Resource Center (Allen Center, Room 111 / adarice@rice.edu / x5841) to determine the accommodations you need; and 2) meet with me to discuss your accommodation needs.
+- Accommodations for Disabilities
+If you have a documented disability that may affect academic performance, you should: 1) make sure
+this documentation is on file with Disability Resource Center (Allen Center, Room 111 / 
+adarice@rice.edu / x5841) to determine the accommodations you need; and 2) meet with me to discuss 
+your accommodation needs.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
