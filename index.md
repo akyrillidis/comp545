@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Advanced topics in optimization: From simple to complex ML systems
+
+<p align="center">
+  <b>Some Links:</b><br>
+</p>
 
 You can use the [editor on GitHub](https://github.com/akyrillidis/comp545/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
