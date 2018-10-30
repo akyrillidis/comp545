@@ -41,6 +41,13 @@ papers that study the objective landscapes for saddle points and local minima;
 papers that study how easy it is to distribute gradient descent computations; and so on...
 You might wonder "_what is so different and significant in all these cases, since gradient descent is what is used after all in each case?_"
 
+COMP 545 is a graduate-level course on optimization techniques and algorithms, as these are used in modern ML/AI/SP tasks.
+During this course, we will learn and study the above topics (both in depth and breadth).
+The course (i) will focus on different objective classes (convex vs. non-convex objectives, with constraints or not, etc.),
+(ii) will cover different optimization strategies within each class, 
+(iii) will study algorithmic choices based on computational resources (e.g., use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, distributed algorithms, etc.)
+and (iv) lastly, will study schemes that handle some specific, but well-spread optimization constraints (sparsity, low-rankness).
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
