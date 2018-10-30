@@ -1,5 +1,7 @@
 <p align="center"><b> Advanced topics in optimization: From simple to complex ML systems</b> </p>
 
+<br>
+<br>
 
 You can use the [editor on GitHub](https://github.com/akyrillidis/comp545/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
