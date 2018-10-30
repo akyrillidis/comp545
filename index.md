@@ -71,25 +71,20 @@ After successful attendance, students are expected to:
 - have a first touch with various optimization-driven applications in ML/AI/SP. 
 - be able to read and review advanced papers on similar subjects, as well as present the papers in front of an audience. \end{itemize}
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+Course Policies
 
-# Header 1
-## Header 2
-### Header 3
+- During Class
+I understand that the electronic recording of notes will be important for class and so computers will be allowed in class. Please refrain from using computers for anything but activities related to the class. Drinking (coffee, tea, water) is allowed in class. Try not to eat your lunch in class as the classes are typically active.
 
-- Bulleted
-- List
+- Policies on Late Assignments
+Assignments (scribing, reviews, project) should be turned on time. You receive a 10\% penalty for each day of delay, up to 2 days. No submissions after the 2 day grace period. Exceptions will be given to very extreme circumstances, with proper documentations.
 
-1. Numbered
-2. List
+- Academic Integrity and Honesty
+Students are required to comply with the university policy on academic integrity found in the [Honor System Handbook]( http://honor.rice.edu/honor-system-handbook/).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Accommodations for Disabilities
+If you have a documented disability that may affect academic performance, you should: 1) make sure this documentation is on file with Disability Resource Center (Allen Center, Room 111 / adarice@rice.edu / x5841) to determine the accommodations you need; and 2) meet with me to discuss your accommodation needs.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
