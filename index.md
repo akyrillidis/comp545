@@ -1,23 +1,24 @@
-<p align="center"><b> Advanced topics in optimization: From simple to complex ML systems</b> </p>
+<h2 align="center"><b> Advanced topics in optimization: From simple to complex ML systems</b> </h2>
 
 <br>
 <br>
 
-<table style="width:100%">
+<table style="width:100%">  
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <td>Email (instructor): anastasios@rice.edu</td>
+    <td>Web: https://akyrillidis.github.io/comp545/</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td> </td>
+    <td>Email (course): RiceCOMP545@gmail.com</td> 
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td>Office hours: XX:XXam </td>
+    <td>Class hours: T\TH 14:30 - 15:45</td> 
+  </tr>
+  <tr>
+    <td>Office: DH 3119</td>
+    <td>Classroom: XXXX </td> 
   </tr>
 </table>
 
