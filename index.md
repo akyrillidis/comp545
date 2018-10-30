@@ -28,7 +28,7 @@
   <tr> 
     <td><a href="http://akyrillidis.github.io/comp545/index.md">Course description</a></td>
     <td align="center"><a href="http://akyrillidis.github.io/comp545/schedule.md">Schedule</a></td> 
-    <td align="right"><a href="http://akyrillidis.github.io/comp545/grading.md>Grading policy</a></td> 
+    <td align="right"><a href="http://akyrillidis.github.io/comp545/grading.md">Grading policy</a></td> 
   </tr>
 </table>
 
