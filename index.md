@@ -23,9 +23,14 @@
 </table>
 
 <br>
-<br>
 
-### Course Description 
+<table style="width:100%">  
+  <tr>
+    <td>[Course description](http://akyrillidis.github.io/comp545/index.md)</td>
+    <td align="center">[Schedule](http://akyrillidis.github.io/comp545/schedule.md)</td> 
+    <td align="right">[Grading policy](http://akyrillidis.github.io/comp545/grading.md)</td> 
+  </tr>
+</table>
 
 Classical courses on machine learning (ML), artificial intelligence (AI), and signal processing (SP) abide by the following recipe: 
 first, they introduce models that well-fit a problem at hand; then, rigorously back up these models with intuition, and finally describe basic algorithms that solve such objectives for learning, inference and estimation.
@@ -87,7 +92,7 @@ given to very extreme circumstances, with proper documentations.
 
 - Academic Integrity and Honesty
 Students are required to comply with the university policy on academic integrity found in the 
-[Honor System Handbook]( http://honor.rice.edu/honor-system-handbook/).
+Honor System Handbook (http://honor.rice.edu/honor-system-handbook/).
 
 - Accommodations for Disabilities
 If you have a documented disability that may affect academic performance, you should: 1) make sure
