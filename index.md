@@ -31,6 +31,15 @@ Classical courses on machine learning (ML), artificial intelligence (AI), and si
 first, they introduce models that well-fit a problem at hand; then, rigorously back up these models with intuition, and finally describe basic algorithms that solve such objectives for learning, inference and estimation.
 And in most cases, a gradient-based algorithm is the solution to our problems that saves the day!
 
+Nevertheless, there are many papers that might have come to your attention, but go beyond plain gradient descent: 
+papers on momentum and acceleration; 
+papers with weird names for algorithms such as AdaGrad, Adam and RMSProp; 
+research on variance-reduced techniques and hyper-parameter tuning such as learning rate, mini batch size and regularization; 
+papers on gradient-variants that promote structures such as sparsity and low-rankness; 
+literature that discusses the matter of "convex vs. non-convex optimization" and how gradient descent behaves on each case; 
+papers that study the objective landscapes for saddle points and local minima; 
+papers that study how easy it is to distribute gradient descent computations; and so on...
+You might wonder "_what is so different and significant in all these cases, since gradient descent is what is used after all in each case?_"
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
