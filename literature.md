@@ -63,3 +63,43 @@
     <td align="left"><b><a href="https://arxiv.org/pdf/1206.0594.pdf">Simple and Deterministic Matrix Sketching</a></b></td> 
   </tr> 
 </table>
+
+<hr/>
+
+<table style="width:100%">  
+  <tr>
+    <td><b>Lecture 2.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><b>Introductory lectures on convex optimization (Sections 1.2, 1.3, 2.1)</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Yurii Nesterov</b></td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://sbubeck.com/Bubeck15.pdf">Convex Optimization: Algorithms and Complexity (Sections 3.1, 3.2, 3.4, 3.5)</a></b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Sebastien Bubeck</b></td>
+  </tr>
+  
+  <br>
+  
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1608.04636">Linear convergence of gradient and proximal-gradient methods under the Polyak-Łojasiewicz condition</a></b></td>    
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://proceedings.mlr.press/v37/asteris15.pdf">Stay on path: PCA along graph paths</a></b></td>    
+  </tr> 
+</table>
+
+<hr/>
+
+
