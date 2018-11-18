@@ -48,19 +48,18 @@
   <br>
   <tr>
     <td>Other refereces: </td>
-    <td align="left" href="https://stanford.edu/~jduchi/projects/DuchiShSiCh08.pdf"><b>Efficient Projections onto the \ell_1-Ball for Learning in High Dimensions</b></td>    
+    <td align="left"><b><a href="https://stanford.edu/~jduchi/projects/DuchiShSiCh08.pdf">Efficient Projections onto the \ell_1-Ball for Learning in High Dimensions</a></b></td>    
   </tr>  
   <tr>
     <td></td>
-    <td align="left" href="http://proceedings.mlr.press/v37/asteris15.pdf"><b>Stay on path: PCA along graph paths</b></td>    
+    <td align="left"><b><a href="http://proceedings.mlr.press/v37/asteris15.pdf">Stay on path: PCA along graph paths</a></b></td>    
   </tr> 
   <tr>
     <td></td>
-    <td align="left" href="http://www.pnas.org/content/106/3/697.full.pdf"><b>CUR matrix decompositions for improved data analysis</b></td>    
+    <td align="left"><b><a href="http://www.pnas.org/content/106/3/697.full.pdf">CUR matrix decompositions for improved data analysis</a></b></td>    
   </tr> 
   <tr>
     <td></td>
-    <td align="left" href="https://arxiv.org/pdf/1206.0594.pdf"><b>Simple and Deterministic Matrix Sketching</b></td>    
+    <td align="left"><b><a href="https://arxiv.org/pdf/1206.0594.pdf">Simple and Deterministic Matrix Sketching</a></b></td> 
   </tr> 
-
 </table>
