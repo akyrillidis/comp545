@@ -94,10 +94,6 @@
     <td>Other references: </td>
     <td align="left"><b><a href="https://arxiv.org/abs/1608.04636">Linear convergence of gradient and proximal-gradient methods under the Polyak-Łojasiewicz condition</a></b></td>    
   </tr>  
-  <tr>
-    <td></td>
-    <td align="left"><b><a href="http://proceedings.mlr.press/v37/asteris15.pdf">Stay on path: PCA along graph paths</a></b></td>    
-  </tr> 
 </table>
 
 <hr/>
