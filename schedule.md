@@ -54,6 +54,8 @@
   </tr>
 </table>
 
+<hr/>
+
 <table style="width:100%">  
   <tr>
     <td>Thursday, January 10</td>
