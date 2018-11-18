@@ -35,10 +35,7 @@
 
 <table style="width:100%">  
   <tr>
-    <td>Tuesday, January 8</td>
-    <td align="left"><b>Lecture 1.</b> </td> 
-    <td></td>
-    <td></td>
+    <td><b>Lecture 1.</b></td>
   </tr>
   <tr>
     <td align="left"><b>Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</b></td>
