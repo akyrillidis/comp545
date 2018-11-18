@@ -47,7 +47,7 @@
   </tr>
   <br>
   <tr>
-    <td>Other refereces: </td>
+    <td>Other references: </td>
     <td align="left"><b><a href="https://stanford.edu/~jduchi/projects/DuchiShSiCh08.pdf">Efficient Projections onto the \ell_1-Ball for Learning in High Dimensions</a></b></td>    
   </tr>  
   <tr>
