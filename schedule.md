@@ -54,4 +54,31 @@
   </tr>
 </table>
 
+<table style="width:100%">  
+  <tr>
+    <td>Thursday, January 10</td>
+    <td align="left"><b>Lecture 2.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Topics:</b> </td> 
+    <td align="left"><b>Smooth optimization</b> </td>
+    <td align="left"><b>Convex optimization</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Lipschitz continuity, strong convexity and PL condition</b> </td>
+    <td align="left">Convergence rate results for convex optimization</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Convex sets</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
 <hr/>
