@@ -37,13 +37,14 @@
   <tr>
     <td>Tuesday, January 8</td>
     <td align="left"><b>Lecture 1.</b> </td> 
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td align="left"><b>Topics:</b> </td> 
+    <td align="left"><b>Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</b></td>
   </tr>
   <tr>
-    <td></td>
-    <td align="left"><b>Overview of the course</b> </td> 
+    <td align="left"><b>Stephen Boyd, Lieven Vandenberghe</b></td>
   </tr>
+
 </table>
