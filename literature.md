@@ -38,10 +38,29 @@
     <td><b>Lecture 1.</b></td>
   </tr>
   <tr>
+    <td>Textbook: </td>
     <td align="left"><b>Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</b></td>
   </tr>
   <tr>
+    <td></td>
     <td align="left"><b>Stephen Boyd, Lieven Vandenberghe</b></td>
   </tr>
+  <br>
+  <tr>
+    <td>Other refereces: </td>
+    <td align="left" href="https://stanford.edu/~jduchi/projects/DuchiShSiCh08.pdf"><b>Efficient Projections onto the \ell_1-Ball for Learning in High Dimensions</b></td>    
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left" href="http://proceedings.mlr.press/v37/asteris15.pdf"><b>Stay on path: PCA along graph paths</b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left" href="http://www.pnas.org/content/106/3/697.full.pdf"><b>CUR matrix decompositions for improved data analysis</b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left" href="https://arxiv.org/pdf/1206.0594.pdf"><b>Simple and Deterministic Matrix Sketching</b></td>    
+  </tr> 
 
 </table>
