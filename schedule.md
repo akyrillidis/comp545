@@ -36,7 +36,7 @@
 <table style="width:100%">  
   <tr>
     <td>Tuesday, January 8</td>
-    <td align="left"><b>Lecture 1.</b> <a href="">(Slides)</a> <a href="">Notebook</a> </td> 
+    <td align="left"><b>Lecture 1.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
