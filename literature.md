@@ -120,6 +120,15 @@
     <td align="left"><b>Jorge Nocedal and Stephen Wright</b></td>
   </tr>
   
+  <tr>
+    <td></td>
+  <td align="left"><b><a href="https://leon.bottou.org/publications/pdf/tr-optml-2016.pdf">- Optimization Methods for Large-Scale Machine Learning</a></b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Leon Bottou, Frank Curtis, and Jorge Nocedal</b></td>
+  </tr>
+  
   <br>
   
   <tr>
@@ -153,7 +162,20 @@
   <tr>
     <td></td>
     <td align="left"><b><a href="https://distill.pub/2017/momentum/">- Why Momentum Really Works</a></b></td>    
-  </tr>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://tongzhang-ml.org/papers/icml04-stograd.pdf">- Solving large-scale linear prediction problems using SGD</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1310.5715.pdf">- Stochastic Gradient Descent, Weighted Sampling, and the Randomized Kaczmarz algorithm</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://www.optimization-online.org/DB_FILE/2014/12/4679.pdf">- Coordinate descent algorithms</a></b></td>    
+  </tr> 
+  
 </table>
 
 <hr/>
