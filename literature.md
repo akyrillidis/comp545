@@ -130,6 +130,8 @@
     <td align="left"><b><a href="https://arxiv.org/pdf/1802.05666.pdf">- Adversarial Risk and the Dangers of Evaluating Against Weak Attacks</a></b></td>    
     <td align="left"><b><a href="https://www.sciencedirect.com/science/article/abs/pii/0041555364901375">- Some methods of speeding up the convergence of iteration methods</a></b></td>   
     <td align="left"><b><a href="http://mpawankumar.info/teaching/cdt-big-data/nesterov83.pdf">- A method for solving the convex programming problem with convergence rate O(1/k^2)</a></b></td>     
+    <td align="left"><b><a href="https://statweb.stanford.edu/~candes/papers/adap_restart_paper.pdf">- Adaptive Restart for Accelerated Gradient Schemes</a></b></td>    
+    <td align="left"><b><a href="https://distill.pub/2017/momentum/">- Why Momentum Really Works</a></b></td>    
   </tr>  
 </table>
 
