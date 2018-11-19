@@ -25,6 +25,10 @@
 <br>
 
 <table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
   <tr> 
     <td align="left"><a href="http://akyrillidis.github.io/comp545/">Course description</a></td>
     <td align="left"><a href="http://akyrillidis.github.io/comp545/schedule.html">Schedule</a></td> 
@@ -61,6 +65,10 @@
 <hr/>
 
 <table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
   <tr>
     <td>Thursday, January 10</td>
     <td align="left"><b>Lecture 2.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
@@ -90,6 +98,10 @@
 <hr/>
 
 <table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
   <tr>
     <td>Tuesday, January 15</td>
     <td align="left"><b>Lecture 3.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
