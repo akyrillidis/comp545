@@ -84,3 +84,26 @@
 </table>
 
 <hr/>
+
+<table style="width:100%">  
+  <tr>
+    <td>Tuesday, January 15</td>
+    <td align="left"><b>Lecture 3.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Newton's method, Quasi-Newton variants</b> </td>
+    <td align="left"><b>Momentum acceleration</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>SGD and its variants</b> </td>
+    <td align="left"><b>Coordinate descent variants</b></td>
+  </tr>
+</table>
+
+<hr/>
