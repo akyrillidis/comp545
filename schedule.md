@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td></td>
-    <td align="left"><b>Topics:</b> </td> 
+    <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Overview of the course</b> </td>
     <td align="left"><b>Course logistics</b> </td>
   </tr>
@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td></td>
-    <td align="left"><b>Topics:</b> </td> 
+    <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Smooth optimization</b> </td>
     <td align="left"><b>Convex optimization</b> </td>
   </tr>
