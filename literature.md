@@ -26,10 +26,10 @@
 
 <table style="width:100%">  
   <tr> 
-    <td><a href="http://akyrillidis.github.io/comp545/index.html">Course description</a></td>
-    <td align="center"><a href="http://akyrillidis.github.io/comp545/schedule.html">Schedule</a></td> 
-    <td align="center"><a href="http://akyrillidis.github.io/comp545/grading.html">Grading policy</a></td> 
-    <td align="right"><a href="http://akyrillidis.github.io/comp545/literature.html">Literature</a></td> 
+    <td align="left"><a href="http://akyrillidis.github.io/comp545/">Course description</a></td>
+    <td align="left"><a href="http://akyrillidis.github.io/comp545/schedule.html">Schedule</a></td> 
+    <td align="left"><a href="http://akyrillidis.github.io/comp545/grading.html">Grading policy</a></td> 
+    <td align="left"><a href="http://akyrillidis.github.io/comp545/literature.html">Literature</a></td> 
   </tr>
 </table>
 
