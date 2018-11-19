@@ -205,7 +205,7 @@
   
   <tr>
     <td>Other references: </td>
-    <td align="left"><b><a href="http://www.ams.org/journals/mcom/1970-24-109/S0025-5718-1970-0258249-6/S0025-5718-1970-0258249-6.pdf">- A Family of Variable-Metric Methods Derived by Variational Means</a></b></td>    
+    <td align="left"><b><a href=https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/tricks-2012.pdf">- Stochastic Gradient Descent Tricks</a></b></td>    
   </tr>
   <tr>
     <td></td>
@@ -213,41 +213,31 @@
   </tr>
   <tr>
     <td></td>
-    <td align="left"><b><a href="https://pdfs.semanticscholar.org/8427/2faaaf0074b461570e5bb48514ac2c94aa72.pdf">- Random Gradient-Free Minimization of Convex Functions</a></b></td>  
+    <td align="left"><b><a href="https://page.mi.fu-berlin.de/prechelt/Biblio/stop_tricks1997.pdf">- Early stopping - but when?</a></b></td>  
+  </tr>  
+</table>
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Presentations #1</b></td>
+    <td align="left"><b><a href="http://m8j.net/math/revisited-FW.pdf">- Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization</a></b></td>    
   </tr>
   <tr>
     <td></td>
-    <td align="left"><b><a href="https://arxiv.org/pdf/1802.05666.pdf">- Adversarial Risk and the Dangers of Evaluating Against Weak Attacks</a></b></td>    
+    <td align="left"><b><a href="http://www.cs.toronto.edu/~jmartens/docs/Deep_HessianFree.pdf">- Deep learning via Hessian-free optimization</a></b></td>   
   </tr>
   <tr>
     <td></td>
-    <td align="left"><b><a href="https://www.sciencedirect.com/science/article/abs/pii/0041555364901375">- Some methods of speeding up the convergence of iteration methods</a></b></td>   
+    <td align="left"><b><a href="http://www.cs.toronto.edu/~fritz/absps/momentum.pdf">- On the importance of initialization and momentum in deep learning</a></b></td>  
   </tr>
   <tr>
     <td></td>
-    <td align="left"><b><a href="http://mpawankumar.info/teaching/cdt-big-data/nesterov83.pdf">- A method for solving the convex programming problem with convergence rate O(1/k^2)</a></b></td>     
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b><a href="https://statweb.stanford.edu/~candes/papers/adap_restart_paper.pdf">- Adaptive Restart for Accelerated Gradient Schemes</a></b></td>    
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b><a href="https://distill.pub/2017/momentum/">- Why Momentum Really Works</a></b></td>    
-  </tr> 
-  <tr>
-    <td></td>
-    <td align="left"><b><a href="http://tongzhang-ml.org/papers/icml04-stograd.pdf">- Solving large-scale linear prediction problems using SGD</a></b></td>    
-  </tr> 
-  <tr>
-    <td></td>
-    <td align="left"><b><a href="https://arxiv.org/pdf/1310.5715.pdf">- Stochastic Gradient Descent, Weighted Sampling, and the Randomized Kaczmarz algorithm</a></b></td>    
-  </tr> 
-  <tr>
-    <td></td>
-    <td align="left"><b><a href="http://www.optimization-online.org/DB_FILE/2014/12/4679.pdf">- Coordinate descent algorithms</a></b></td>    
-  </tr> 
-  
+    <td align="left"><b><a href="https://arxiv.org/pdf/1609.04836.pdf">- On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima</a></b></td>    
+  </tr>  
 </table>
 
 <hr/>
