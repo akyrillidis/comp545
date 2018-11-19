@@ -205,7 +205,7 @@
   
   <tr>
     <td>Other references: </td>
-    <td align="left"><b><a href=https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/tricks-2012.pdf">- Stochastic Gradient Descent Tricks</a></b></td>    
+    <td align="left"><b><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/tricks-2012.pdf">- Stochastic Gradient Descent Tricks</a></b></td>    
   </tr>
   <tr>
     <td></td>
