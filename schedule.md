@@ -43,8 +43,8 @@
   <col width="25%">
   <col width="25%">
   <tr>
-    <td>Tuesday, January 8</td>
-    <td align="left"><b>Lecture 1.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td>Lecture 1.</td>
+    <td align="left"> 1+ sessions <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
@@ -70,8 +70,8 @@
   <col width="25%">
   <col width="25%">
   <tr>
-    <td>Thursday, January 10</td>
-    <td align="left"><b>Lecture 2.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td>Lecture 2.</td>
+    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
@@ -103,8 +103,8 @@
   <col width="25%">
   <col width="25%">
   <tr>
-    <td>Tuesday, January 15</td>
-    <td align="left"><b>Lecture 3.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td>Lecture 3.</td>
+    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
@@ -130,8 +130,8 @@
   <col width="25%">
   <col width="25%">
   <tr>
-    <td>Thursday, January 17</td>
-    <td align="left"><b>Lecture 4.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td>Lecture 4.</td>
+    <td align="left"><b>1 session</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
