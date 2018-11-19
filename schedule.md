@@ -123,3 +123,30 @@
 </table>
 
 <hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Thursday, January 17</td>
+    <td align="left"><b>Lecture 4.</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Simple hyper-parameter tuning (1/2)</b> </td>
+    <td align="left"><b>Learning rate, regularization</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Mini-batch SGD</b> </td>
+    <td align="left"><b>Early stopping</b></td>
+  </tr>
+</table>
+
+<hr/>
