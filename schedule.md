@@ -158,7 +158,7 @@
   <col width="25%">
   <tr>
     <td>Presentations #1</td>
-    <td align="left"><b>Thursday, January 31- Tuesday, February 5</b></td> 
+    <td align="left"><b>Thursday, January 31 or Tuesday, February 5</b></td> 
     <td></td>
     <td></td>
   </tr>
