@@ -165,3 +165,29 @@
 </table>
 
 <hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 5.</td>
+    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Non-convex constraints in optimization</b> </td>
+    <td align="left"><b>Sparse model selection</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Hard-thresholding algorithms with hyper-parameter tuning</b> </td>
+    <td align="left"><b>Interlude: how statistics get into optimization</b></td>
+  </tr>
+</table>
+
