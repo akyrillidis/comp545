@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Textbook: </td>
-    <td align="left"><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf"><b>- Introductory lectures on convex optimization (Sections 1.2, 1.3, 2.1)</a></b>, Yurii Nesterov</td>
+    <td align="left"><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf"><b>- Introductory lectures on convex optimization (Sections 1.2, 1.3, 2.1)</b></a>, Yurii Nesterov</td>
   </tr>
   
   <tr>
