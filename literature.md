@@ -209,3 +209,86 @@
 </table>
 
 <hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 5.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><a href="https://arxiv.org/abs/1712.07897f"><b>- Non-convex optimization for machine learning (Section 7)</b></a>, Prateek Jain, Purushottam Kar</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>- A mathematical introduction to compressive sensing</b></a>, Simon Foucart, Holger Rauhut</td>
+  </tr>
+    
+  <br>
+  
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b><a href="http://www.math.yorku.ca/~hkj/Teaching/6621Winter2013/Coverage/lasso.pdf">- Regression Shrinkage and Selection via the Lasso</a></b></td>    
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://web.stanford.edu/group/SOL/papers/BasisPursuit-SIGEST.pdf">- Atomic Decomposition by Basis Pursuit</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/0805.0510.pdf">- Iterative hard thresholding for compressed sensing</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/0909.0777.pdf">- Optimally Tuned Iterative Reconstruction
+Algorithms for Compressed Sensing</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://statweb.stanford.edu/~candes/papers/RIP.pdf">- The Restricted Isometry Property
+and Its Implications for Compressed Sensing</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://imi.cas.sc.edu/MURIwebsite/publications/publications-pertaining-to-this-muri/JLCSfinalrevision1.pdf">- A Simple Proof of the Restricted Isometry Property for Random Matrices</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://icml.cc/Conferences/2009/papers/115.pdf">- Gradient Descent with Sparsification: An iterative algorithm for sparse recovery with restricted isometry property</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://infoscience.epfl.ch/record/183059/files/CAMSAP_Recipes_for_HTM.pdf">- Recipes on hard thresholding methods</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1104.4824.pdf">- Fast global convergence of gradient methods for high-dimensional statistical recovery</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://jmlr.org/papers/volume18/14-415/14-415.pdf">- Gradient hard thresholding pursuit</a></b></td>  
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://projecteuclid.org/download/pdfview_1/euclid.ejs/1316092865">- High-dimensional covariance estimation by minimizing \ell_1-penalized log-determinant divergence</a></b></td>  
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://www.sciencedirect.com/science/article/pii/S1063520308000638">- CoSaMP: Iterative signal recovery from incomplete and inaccurate samples</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1703.03208.pdf">- Compressed sensing using generative models</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://proceedings.mlr.press/v37/hegde15.pdf">- A Nearly-Linear Time Framework for Graph-Structured Sparsity</a></b></td>  
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1711.10925.pdf">- Deep image prior</a></b></td>  
+  </tr>
+</table>
+
+<hr/>
