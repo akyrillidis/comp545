@@ -187,7 +187,7 @@
     <td></td>
     <td align="left"></td> 
     <td align="left"><b>Hard-thresholding algorithms with hyper-parameter tuning</b> </td>
-    <td align="left"><b>Interlude: how statistics get into optimization</b></td>
+    <td align="left"><b>Interlude: how statistics mingle with optimization</b></td>
   </tr>
 </table>
 
