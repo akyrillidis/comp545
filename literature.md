@@ -41,11 +41,7 @@
   </tr>
   <tr>
     <td>Textbook: </td>
-    <td align="left"><b>- Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Stephen Boyd, Lieven Vandenberghe</b></td>
+    <td align="left"><b>- Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</b>, Stephen Boyd, Lieven Vandenberghe</td>
   </tr>
   <br>
   <tr>
@@ -76,20 +72,12 @@
   </tr>
   <tr>
     <td>Textbook: </td>
-    <td align="left"><b>- Introductory lectures on convex optimization (Sections 1.2, 1.3, 2.1)</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Yurii Nesterov</b></td>
+    <td align="left"><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf"><b>- Introductory lectures on convex optimization (Sections 1.2, 1.3, 2.1)</a></b>, Yurii Nesterov</td>
   </tr>
   
   <tr>
     <td></td>
-    <td align="left"><b><a href="http://sbubeck.com/Bubeck15.pdf">- Convex Optimization: Algorithms and Complexity (Sections 3.1, 3.2, 3.4, 3.5)</a></b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Sebastien Bubeck</b></td>
+    <td align="left"><b><a href="http://sbubeck.com/Bubeck15.pdf">- Convex Optimization: Algorithms and Complexity (Sections 3.1, 3.2, 3.4, 3.5)</a></b>, Sebastien Bubeck</td>
   </tr>
   
   <br>
@@ -110,29 +98,17 @@
   </tr>
   <tr>
     <td>Textbook: </td>
-    <td align="left"><b>- Introductory lectures on convex optimization (Sections 1.2, 2.2)</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Yurii Nesterov</b></td>
+    <td align="left"><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf"><b>- Introductory lectures on convex optimization (Sections 1.2, 2.2)</b></a>, Yurii Nesterov</td>
   </tr>
   
   <tr>
     <td></td>
-    <td align="left"><b>- Numerical optimization (Sections 8.1, 8.2) </b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Jorge Nocedal and Stephen Wright</b></td>
+    <td align="left"><b>- Numerical optimization (Sections 8.1, 8.2) </b>, Jorge Nocedal and Stephen Wright</td>
   </tr>
   
   <tr>
     <td></td>
-  <td align="left"><b><a href="https://leon.bottou.org/publications/pdf/tr-optml-2016.pdf">- Optimization Methods for Large-Scale Machine Learning</a></b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Leon Bottou, Frank Curtis, and Jorge Nocedal</b></td>
+  <td align="left"><b><a href="https://leon.bottou.org/publications/pdf/tr-optml-2016.pdf">- Optimization Methods for Large-Scale Machine Learning</a></b>, Leon Bottou, Frank Curtis, and Jorge Nocedal</td>
   </tr>
   
   <br>
@@ -194,11 +170,7 @@
   </tr>
   <tr>
     <td>Textbook: </td>
-    <td align="left"><b>- Introductory lectures on convex optimization (Sections 1.2, 2.1, 2.2)</b></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Yurii Nesterov</b></td>
+    <td align="left"><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf"><b>- Introductory lectures on convex optimization (Sections 1.2, 2.1, 2.2)</b></a>, Yurii Nesterov</td>
   </tr>
     
   <br>
