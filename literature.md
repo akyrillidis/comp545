@@ -292,3 +292,69 @@ and Its Implications for Compressed Sensing</a></b></td>
 </table>
 
 <hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 6.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><a href="https://arxiv.org/abs/1712.07897f"><b>- Non-convex optimization for machine learning (Section 8)</b></a>, Prateek Jain, Purushottam Kar</td>
+  </tr>
+    
+  <br>
+  
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b><a href="https://www.nature.com/articles/s41534-018-0080-4">- Provable quantum state tomography via non-convex methods</a></b></td>    
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://people.eecs.berkeley.edu/~brecht/papers/07.rfp.lowrank.pdf">- Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1103.2816.pdf">- Universal low-rank matrix recovery from Pauli measurements</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1009.2065">- Templates for convex cone problems with applications to sparse signal recovery</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1203.4481">- Matrix Recipes for Hard Thresholding Methods</a></b></td> 
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1606.03168">- Finding Low-Rank Solutions via Non-Convex Matrix Factorization, Efficiently and Provably
+</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1509.03917">- Dropping Convexity for Faster Semi-definite Optimization</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1509.03025">- Fast low-rank estimation by projected gradient descent: General statistical and algorithmic guarantees</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.1839&rep=rep1&type=pdf">- Neural networks and PCA: Learning from examples without local minima</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://papers.nips.cc/paper/5430-non-convex-robust-pca.pdf">- Provable non-convex robust PCA</a></b></td>  
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://proceedings.mlr.press/v23/spielman12/spielman12.pdf">- Exact Recovery of Sparsely-Used Dictionaries</a></b></td>  
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1710.05092.pdf">- Dropout as a Low-Rank Regularizer for Matrix Factorization</a></b></td>  
+  </tr> 
+</table>
+
+<hr/>
