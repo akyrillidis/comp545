@@ -191,3 +191,30 @@
   </tr>
 </table>
 
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 6.</td>
+    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Non-convex optimization for low-rank models</b> </td>
+    <td align="left"><b>Hard-thresholding methods</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Matrix factorization techniques</b> </td>
+    <td align="left"><b>Theoretical guarantees for matrix factorization</b></td>
+  </tr>
+</table>
+
