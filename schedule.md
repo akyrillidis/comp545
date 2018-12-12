@@ -218,3 +218,29 @@
   </tr>
 </table>
 
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 7.</td>
+    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Function landscape characterization</b> </td>
+    <td align="left"><b>Stationary points, saddle points and local/global optima</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Ways to handle such cases</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
