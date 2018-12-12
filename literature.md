@@ -222,7 +222,7 @@
   </tr>
   <tr>
     <td></td>
-    <td align="left"><b>- A mathematical introduction to compressive sensing</b></a>, Simon Foucart, Holger Rauhut</td>
+    <td align="left"><b>- A mathematical introduction to compressive sensing</b>, Simon Foucart, Holger Rauhut</td>
   </tr>
     
   <br>
