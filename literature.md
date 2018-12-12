@@ -358,3 +358,54 @@ and Its Implications for Compressed Sensing</a></b></td>
 </table>
 
 <hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 7.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><a href="https://arxiv.org/abs/1712.07897f"><b>- Non-convex optimization for machine learning (Section 6)</b></a>, Prateek Jain, Purushottam Kar</td>
+  </tr>
+    
+  <br>
+  
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1412.0233.pdf">- The loss sufraces of multilinear networks</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://papers.nips.cc/paper/5486-identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization.pdf">- Identifying and attacking the saddle point problem in high-dimensional non-convex optimization</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1503.02101.pdf">- Escaping From Saddle Points -- Online Stochastic Gradient for Tensor Decomposition</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://www.offconvex.org/2016/03/22/saddlepoints/">- Escaping from saddle points</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://www.argmin.net/2016/03/24/saddles-again/">- Saddles again</a></b></td> 
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://www.argmin.net/2016/04/11/flatness/">- The hardest part
+</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://proceedings.mlr.press/v49/lee16.pdf">- Gradient Descent Only Converges to Minimizers
+</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1510.06096.pdf">- When are nonconvex problems not scary?</a></b></td>  
+  </tr> 
+</table>
+
+<hr/>
