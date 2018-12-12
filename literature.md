@@ -406,6 +406,19 @@ and Its Implications for Compressed Sensing</a></b></td>
     <td></td>
     <td align="left"><b><a href="https://arxiv.org/pdf/1510.06096.pdf">- When are nonconvex problems not scary?</a></b></td>  
   </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1605.07272.pdf">- Matrix Completion has No Spurious Local Minimum
+</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1605.07221.pdf">- Global Optimality of Local Search for Low Rank Matrix Recovery</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1609.03240.pdf">- Non-square matrix sensing without spurious local minima via the Burer-Monteiro approach</a></b></td>  
+  </tr> 
 </table>
 
 <hr/>
