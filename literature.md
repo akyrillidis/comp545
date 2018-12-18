@@ -422,3 +422,65 @@ and Its Implications for Compressed Sensing</a></b></td>
 </table>
 
 <hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 8.</b></td>
+  </tr>    
+  <br>
+  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">- Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent</a></b></td>  
+  </tr>  
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b><a href="http://proceedings.mlr.press/v70/tandon17a/tandon17a.pdf">- Gradient Coding: Avoiding Stragglers in Distributed Learning</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://ai.google/research/pubs/pub40565">- Large Scale Distributed Deep Networks</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1507.06970.pdf">- Perturbed Iterate Analysis for Asynchronous Stochastic Optimization</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1605.09721.pdf">- CYCLADES: Conflict-free Asynchronous Machine Learning</a></b></td> 
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://hyperopt.github.io/hyperopt/">- Hyperopt: Distributed Asynchronous Hyperparameter Optimization in Python</a></b></td>  
+  </tr> 
+</table>
+
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Presentations #2</b></td>
+    <td align="left"><b><a href="http://www.stat.ucdavis.edu/~chohsieh/wildSGD.pdf">- HogWild++: A New Mechanism for Decentralized Asynchronous Stochastic Gradient Descent</a></b></td>    
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1809.10505.pdf">- The Convergence of Sparsified Gradient Methods</a></b></td>   
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1706.02677.pdf">- Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour</a></b></td>  
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1604.00981.pdf">- Revisiting Distributed Synchronous SGD</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1610.02132.pdf">- QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding</a></b></td>    
+  </tr> 
+</table>
