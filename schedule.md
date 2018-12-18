@@ -244,3 +244,30 @@
     <td align="left"></td>
   </tr>
 </table>
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 8.</td>
+    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Distributed computing in ML</b> </td>
+    <td align="left"><b>Synchrony vs. asynchrony</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Theoretical guarantees of HogWild!</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
