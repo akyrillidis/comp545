@@ -151,6 +151,10 @@
   </tr> 
   <tr>
     <td></td>
+    <td align="left"><b><a href="https://www2.isye.gatech.edu/~nemirovs/SIOPT_RSA_2009.pdf">- Robust stochastic approximation approach to stochastic programming</a></b></td>    
+  </tr>   
+  <tr>
+    <td></td>
     <td align="left"><b><a href="https://arxiv.org/pdf/1310.5715.pdf">- Stochastic Gradient Descent, Weighted Sampling, and the Randomized Kaczmarz algorithm</a></b></td>    
   </tr> 
   <tr>
@@ -455,6 +459,14 @@ and Its Implications for Compressed Sensing</a></b></td>
     <td></td>
     <td align="left"><b><a href="http://hyperopt.github.io/hyperopt/">- Hyperopt: Distributed Asynchronous Hyperparameter Optimization in Python</a></b></td>  
   </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://papers.nips.cc/paper/4006-parallelized-stochastic-gradient-descent.pdf">- Parallelized Stochastic Gradient Descent</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/0911.0491.pdf">- Slow learners are fast</a></b></td> 
+  </tr>
 </table>
 
 
