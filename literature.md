@@ -496,3 +496,69 @@ and Its Implications for Compressed Sensing</a></b></td>
     <td align="left"><b><a href="https://arxiv.org/pdf/1610.02132.pdf">- QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding</a></b></td>    
   </tr> 
 </table>
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 9.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><a href="https://www.deeplearningbook.org/"><b>- Deep learning book (Chapter 8)</b></a>, Ian Goodfellow and Yoshua Bengio and Aaron Courville</td>
+  </tr>   
+  <br>
+  
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1309.5549.pdf">- Stochastic First- and Zeroth-order Methods for Nonconvex Stochastic Programming</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1611.00756.pdf">- Accelerated Methods for Non-Convex Optimization</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1704.08227.pdf">- Accelerating Stochastic Gradient Descent For Least Squares Regression</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1803.05591.pdf">- On the insufficiency of existing momentum schemes for Stochastic Optimization</a></b></td>  
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1707.02670.pdf">- Accelerated Stochastic Power Iteration</a></b></td> 
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf">- Adaptive Subgradient Methods for
+Online Learning and Stochastic Optimization</a></b></td>  
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://akyrillidis.github.io/notes/AdaGrad">- The AdaGrad algorithm</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1412.6980">- Adam: A Method for Stochastic Optimization
+</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="http://ruder.io/optimizing-gradient-descent/">- An overview of gradient descent optimization algorithms</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://towardsdatascience.com/how-to-train-neural-network-faster-with-optimizers-d297730b3713">- How to train Neural Network faster with optimizers?</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1705.08292.pdf">- The Marginal Value of Adaptive Gradient Methods in Machine Learning</a></b></td> 
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1811.07055.pdf">- Minimum norm solutions do not always generalize well for over-parameterized problems</a></b></td> 
+  </tr>
+</table>
