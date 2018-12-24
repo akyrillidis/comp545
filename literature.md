@@ -436,11 +436,11 @@ and Its Implications for Compressed Sensing</a></b></td>
   <br>
   
   <tr>
-    <td></td>
+    <td>Other references: </td>
     <td align="left"><b><a href="https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf">- Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent</a></b></td>  
   </tr>  
   <tr>
-    <td>Other references: </td>
+    <td></td>
     <td align="left"><b><a href="http://proceedings.mlr.press/v70/tandon17a/tandon17a.pdf">- Gradient Coding: Avoiding Stragglers in Distributed Learning</a></b></td> 
   </tr>
   <tr>
