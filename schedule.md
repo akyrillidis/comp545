@@ -280,6 +280,21 @@
   <col width="25%">
   <col width="25%">
   <tr>
+    <td>Presentations #2</td>
+    <td align="left"><b>?? or ??</b></td> 
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
     <td>Lecture 9.</td>
     <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> </td> 
     <td></td>
@@ -296,20 +311,5 @@
     <td align="left"></td> 
     <td align="left"><b>Discussion on adaptive methods</b> </td>
     <td align="left"></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Presentations #2</td>
-    <td align="left"><b>?? or ??</b></td> 
-    <td></td>
-    <td></td>
   </tr>
 </table>
