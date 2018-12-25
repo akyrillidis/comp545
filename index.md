@@ -13,12 +13,12 @@
     <td align="right">Email (course): RiceCOMP545@gmail.com</td> 
   </tr>
   <tr>
-    <td>Office hours: XX:XXam </td>
+    <td>Office hours: By appointment </td>
     <td align="right">Class hours: T\TH 14:30 - 15:45</td> 
   </tr>
   <tr>
     <td>Office: DH 3119</td>
-    <td align="right">Classroom: XXXX </td> 
+    <td align="right">Classroom: AEL B209 </td> 
   </tr>
 </table>
 
