@@ -51,7 +51,7 @@ COMP 545 is a graduate-level course on optimization techniques and algorithms, a
 During this course, we will learn and study the above topics (both in depth and breadth).
 The course (i) will focus on different objective classes (convex vs. non-convex objectives, with constraints or not, etc.),
 (ii) will cover different optimization strategies within each class, 
-(iii) will study algorithmic choices based on computational resources (\emph{e.g.}, use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, etc.)
+(iii) will study algorithmic choices based on computational resources (e.g., use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, etc.)
 and (iv) lastly, will study schemes that handle some specific, but well-studied optimization constraints (sparsity, low-rankness).
 
 
@@ -78,7 +78,7 @@ After successful attendance, students are expected to:
 - have a good understanding of the differences / difficulties of convex and non-convex optimization. 
 - have a good comprehension how optimization plays a key role in different areas of ML/AI/SP. 
 - have a first touch with various optimization-driven applications in ML/AI/SP. 
-- be able to read and review advanced papers on similar subjects, as well as present the papers in front of an audience. \end{itemize}
+- be able to read and review advanced papers on similar subjects, as well as present the papers in front of an audience.
 
 ```markdown
 Course Policies
@@ -90,7 +90,7 @@ Drinking (coffee, tea, water) is allowed in class. Try not to eat your lunch in 
 classes are typically active.
 
 - Policies on Late Assignments
-Assignments (scribing, reviews, project) should be turned on time. You receive a 10\% penalty for 
+Assignments (scribing, reviews, project) should be turned on time. You receive a 10% penalty for 
 each day of delay, up to 2 days. No submissions after the 2 day grace period. Exceptions will be 
 given to very extreme circumstances, with proper documentations.
 
