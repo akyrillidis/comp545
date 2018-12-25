@@ -313,3 +313,18 @@
     <td align="left"></td>
   </tr>
 </table>
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Final presentations.</td>
+    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+</table>
