@@ -33,30 +33,33 @@
   </tr>
 </table>
 
-Classical courses on machine learning (ML), artificial intelligence (AI), and signal processing (SP) abide by the following recipe: 
-first, they introduce models that well-fit a problem at hand; then, rigorously back up these models with intuition, and finally describe basic algorithms that solve such objectives for learning, inference and estimation.
+Courses on machine learning (ML), artificial intelligence (AI), and signal processing (SP) abide by the following recipe: 
+first, they introduce models that well-describe a task at hand; then, rigorously back up these models with intuition, and finally propose basic algorithms that solve such objectives for learning, inference and estimation.
 And in most cases, a gradient-based algorithm is the solution to our problems that saves the day!
 
 Nevertheless, there are many papers that might have come to your attention, but go beyond plain gradient descent: 
 papers on momentum and acceleration; 
-papers with weird names for algorithms such as AdaGrad, Adam and RMSProp; 
+papers with algorithms other than gradient descent, such as AdaGrad, Adam and RMSProp; 
 research on variance-reduced techniques and hyper-parameter tuning such as learning rate, mini batch size and regularization; 
 papers on gradient-variants that promote structures such as sparsity and low-rankness; 
 literature that discusses the matter of "convex vs. non-convex optimization" and how gradient descent behaves on each case; 
 papers that study the objective landscapes for saddle points and local minima; 
 papers that study how easy it is to distribute gradient descent computations; and so on...
-You might wonder "_what is so different and significant in all these cases, since gradient descent is what is used after all in each case?_"
+You might wonder "_what is so different and significant in all these cases, since gradient descent is what is used in each case after all?_"
 
 COMP 545 is a graduate-level course on optimization techniques and algorithms, as these are used in modern ML/AI/SP tasks.
 During this course, we will learn and study the above topics (both in depth and breadth).
 The course (i) will focus on different objective classes (convex vs. non-convex objectives, with constraints or not, etc.),
 (ii) will cover different optimization strategies within each class, 
-(iii) will study algorithmic choices based on computational resources (e.g., use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, distributed algorithms, etc.)
-and (iv) lastly, will study schemes that handle some specific, but well-spread optimization constraints (sparsity, low-rankness).
+(iii) will study algorithmic choices based on computational resources (\emph{e.g.}, use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, etc.)
+and (iv) lastly, will study schemes that handle some specific, but well-studied optimization constraints (sparsity, low-rankness).
+
 
 ### Textbook
 
-There is no textbook for the class. The class will be a collection of lectures, prepared by the instructor, as well as presentations of research papers available online. Links will be provided during the course.
+There is no textbook for the class. 
+The class will be a collection of lectures, prepared by the instructor, as well as presentations of research papers.
+Links to resources will be provided during the course.
 
 ### Prerequisites
 
@@ -81,9 +84,9 @@ After successful attendance, students are expected to:
 Course Policies
 
 - During Class
-I understand that the electronic recording of notes will be important for class and so computers will 
-be allowed in class. Please refrain from using computers for anything but activities related to the 
-class. Drinking (coffee, tea, water) is allowed in class. Try not to eat your lunch in class as the 
+The electronic recording of notes will be important for class and so computers will be allowed in
+class. Please refrain from using computers for anything but activities related to the class. 
+Drinking (coffee, tea, water) is allowed in class. Try not to eat your lunch in class as the 
 classes are typically active.
 
 - Policies on Late Assignments
