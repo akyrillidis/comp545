@@ -37,8 +37,9 @@ The grade is based on the following factors:
 
 - 5% participation and attendance.
 - 10% scribing of notes.
-- 70% final project
 - 15% paper reviews - students will submit a review almost each week. 
+- 20% presentations
+- 50% final project
 
 The instructor reserves the right to curve the scale dependent on overall class scores at the end of the semester. 
 The course has the format of "Satisfactory/Unsatisfactory", but the instructor will probably provide unofficially letter grades.
