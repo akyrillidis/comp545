@@ -23,6 +23,14 @@
 </table>
 
 <br>
+<br>
+<table style="width:100%">  
+  <tr> 
+    <td align="center"><a href="https://rice.box.com/s/uskmrcsg95ms5v2wo7oex2oo9goty8i2">LaTEX template for scribing</a></td>
+  </tr>
+</table>
+<br>
+<br>
 
 <table style="width:100%">  
   <col width="25%">
