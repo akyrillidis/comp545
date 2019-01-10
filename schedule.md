@@ -49,7 +49,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 1.</td>
-    <td align="left"> 1+ sessions <a href="comp545/Lectures/Lecture 1.pdf">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td align="left"> 1+ sessions <a href="comp545/Lectures/Lecture 1.pdf">(Slides)</a> <a href="comp545/Lectures/Lecture 1.ipynb">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
