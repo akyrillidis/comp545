@@ -24,8 +24,8 @@
 
 <table style="width:100%">  
   <tr> 
-    <td align="center"><a href="comp545/Syllabus.pdf">Course Syllabus</a></td>
-    <td align="center"><a href="comp545/scribe_template.zip">LaTEX template for scribing</a></td>
+    <td align="center"><a href="./Syllabus.pdf">Course Syllabus</a></td>
+    <td align="center"><a href="./scribe_template.zip">LaTEX template for scribing</a></td>
   </tr>
 </table>
 
@@ -48,8 +48,8 @@
   <col width="25%">
   <col width="25%">
   <tr>
-    <td>Lecture 1.</td>
-    <td align="left"> 1+ sessions (Jan. 8 & 10) <a href="comp545/Lectures/Lecture 1.pdf">(Slides)</a> <a href="comp545/Lectures/Lecture 1.ipynb">(Notebook)</a> </td> 
+    <td>Lecture 1. (Jan. 8 & 10) </td>
+    <td align="left"> 1+ sessions <a href="./Lectures/Lecture 1.pdf">(Slides)</a> <a href="./Lectures/Lecture 1.ipynb">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
