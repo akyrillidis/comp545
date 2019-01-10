@@ -48,13 +48,13 @@
   <col width="25%">
   <col width="25%">
   <tr>
-    <td>Lecture 1. (Jan. 8 & 10) </td>
+    <td>Lecture 1.</td>
     <td align="left"> 1+ sessions <a href="./Lectures/Lecture 1.pdf">(Slides)</a> <a href="./Lectures/Lecture 1.ipynb">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Jan. 8 & 10) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Overview of the course</b> </td>
     <td align="left"><b>Course logistics</b> </td>
