@@ -25,7 +25,7 @@
 <table style="width:100%">  
   <tr> 
     <td align="center"><a href="https://rice.box.com/s/dwhxgoc0tjryxplf69qtvig9e9nhu7s6">Course Syllabus</a></td>
-    <td align="center"><a href="https://rice.box.com/s/uskmrcsg95ms5v2wo7oex2oo9goty8i2">LaTEX template for scribing</a></td>
+    <td align="center"><a href="https://drive.google.com/open?id=1pkU1l22Exqj-0AxCvvq5xSvAMpxiVAVi">LaTEX template for scribing</a></td>
   </tr>
 </table>
 
