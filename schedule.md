@@ -49,7 +49,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 1.</td>
-    <td align="left"> 1+ sessions <a href="https://rice.box.com/s/bwhpyli7eiavfn8178l6bn6t8wwe368j">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td align="left"> 1+ sessions <a href="https://drive.google.com/open?id=14tciz-q_hCJ3GLf-L9-Wk8EzOq0vNOAT">(Slides)</a> <a href="">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
