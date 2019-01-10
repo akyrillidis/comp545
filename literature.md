@@ -24,8 +24,8 @@
 
 <table style="width:100%">  
   <tr> 
-    <td align="center"><a href="comp545/Syllabus.pdf">Course Syllabus</a></td>
-    <td align="center"><a href="comp545/scribe_template.zip">LaTEX template for scribing</a></td>
+    <td align="center"><a href="./Syllabus.pdf">Course Syllabus</a></td>
+    <td align="center"><a href="./scribe_template.zip">LaTEX template for scribing</a></td>
   </tr>
 </table>
 
