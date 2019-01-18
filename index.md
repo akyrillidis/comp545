@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>Office: DH 3119</td>
-    <td align="right">Classroom: AEL B209 </td> 
+    <td align="right">Classroom: DH 1046 </td> 
   </tr>
 </table>
 
