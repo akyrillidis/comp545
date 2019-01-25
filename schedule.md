@@ -167,6 +167,12 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td><b> (Skipped for this time) </b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 <hr/>
