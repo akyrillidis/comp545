@@ -81,7 +81,7 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Jan. 15, 17 & 22) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Smooth optimization</b> </td>
     <td align="left"><b>Convex optimization</b> </td>
@@ -114,7 +114,7 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Jan. 22, 24 & 29) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Newton's method, Quasi-Newton variants</b> </td>
     <td align="left"><b>Momentum acceleration</b> </td>
