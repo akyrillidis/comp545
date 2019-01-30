@@ -114,7 +114,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 22, 24 & 29) </td>
+    <td> (Jan. 22, 24, 29 & 31) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Newton's method, Quasi-Newton variants</b> </td>
     <td align="left"><b>Momentum acceleration</b> </td>
