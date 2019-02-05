@@ -141,7 +141,7 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Feb. 5) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Simple hyper-parameter tuning (1/2)</b> </td>
     <td align="left"><b>Learning rate, regularization</b> </td>
