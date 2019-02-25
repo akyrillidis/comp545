@@ -163,12 +163,12 @@
   <col width="25%">
   <tr>
     <td>Lecture 5.</td>
-    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td align="left"><b>4 sessions</b> <a href="./Lectures/Lecture 5.pdf">(Slides)</a> <a href="./Lectures/Lecture 5.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 5 notes.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Feb. 7, 14, 21 & 25) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Non-convex constraints in optimization</b> </td>
     <td align="left"><b>Sparse model selection</b> </td>
