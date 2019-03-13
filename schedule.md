@@ -168,7 +168,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Feb. 7, 14, 21 & 25) </td>
+    <td> (Feb. 7, 14, 21 & 26) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Non-convex constraints in optimization</b> </td>
     <td align="left"><b>Sparse model selection</b> </td>
@@ -190,12 +190,12 @@
   <col width="25%">
   <tr>
     <td>Lecture 6.</td>
-    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> <a href="">(Notebook)</a> </td> 
+    <td align="left"><b>4 sessions</b> <a href="./Lectures/Lecture 6.pdf">(Slides)</a> <a href="./Lectures/Lecture 6.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 6 notes.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Feb. 26, 28 & Mar. 5, 7) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Non-convex optimization for low-rank models</b> </td>
     <td align="left"><b>Hard-thresholding methods</b> </td>
