@@ -217,12 +217,12 @@
   <col width="25%">
   <tr>
     <td>Lecture 7.</td>
-    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> </td> 
+    <td align="left"><b>2 sessions</b> <a href="./Lectures/Lecture 7.pdf">(Slides)</a> <a href="./Lectures/Lecture 7 notes.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Mar. 19 & 21) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Function landscape characterization</b> </td>
     <td align="left"><b>Stationary points, saddle points and local/global optima</b> </td>
@@ -244,12 +244,12 @@
   <col width="25%">
   <tr>
     <td>Lecture 8.</td>
-    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> </td> 
+    <td align="left"><b>2 sessions</b> <a href="./Lectures/Lecture 8.pdf">(Slides)</a> <a href="./Lectures/Lecture 8 notes.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Mar. 26 & 28) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Distributed computing in ML</b> </td>
     <td align="left"><b>Synchrony vs. asynchrony</b> </td>
@@ -259,21 +259,6 @@
     <td align="left"></td> 
     <td align="left"><b>Theoretical guarantees of HogWild!</b> </td>
     <td align="left"></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Presentations #2</td>
-    <td align="left"><b>?? or ??</b></td> 
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
