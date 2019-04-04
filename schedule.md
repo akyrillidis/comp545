@@ -49,7 +49,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 1.</td>
-    <td align="left"> 1+ sessions <a href="./Lectures/Lecture 1.pdf">(Slides)</a> <a href="./Lectures/Lecture 1.ipynb">(Notebook)</a> </td> 
+    <td align="left"> 2 sessions <a href="./Lectures/Lecture 1.pdf">(Slides)</a> <a href="./Lectures/Lecture 1.ipynb">(Notebook)</a> </td> 
     <td></td>
     <td></td>
   </tr>
@@ -76,7 +76,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 2.</td>
-    <td align="left"><b>2+ sessions</b> <a href="./Lectures/Lecture 2.pdf">(Slides)</a> <a href="./Lectures/Lecture 2.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 2 notes.pdf">(Notes)</a> </td> 
+    <td align="left"><b>3 sessions</b> <a href="./Lectures/Lecture 2.pdf">(Slides)</a> <a href="./Lectures/Lecture 2.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 2 notes.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
@@ -109,7 +109,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 3.</td>
-    <td align="left"><b>2+ sessions</b> <a href="./Lectures/Lecture 3.pdf">(Slides)</a> <a href="./Lectures/Lecture 3.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 3 notes.pdf">(Notes)</a></td> 
+    <td align="left"><b>4 sessions</b> <a href="./Lectures/Lecture 3.pdf">(Slides)</a> <a href="./Lectures/Lecture 3.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 3 notes.pdf">(Notes)</a></td> 
     <td></td>
     <td></td>
   </tr>
