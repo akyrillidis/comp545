@@ -271,7 +271,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 9.</td>
-    <td align="left"><b>2+ sessions</b> <a href="">(Slides)</a> </td> 
+    <td align="left"><b>2 sessions</b> <a href="./Lectures/Lecture 9.pdf">(Slides)</a> <a href="./Lectures/Lecture 9 notes.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
@@ -282,25 +282,10 @@
     <td align="left"><b>AdaGrad, RMSProp, Adam</b> </td>
   </tr>
   <tr>
-    <td></td>
+    <td> (Apr. 2 & 4) </td>
     <td align="left"></td> 
     <td align="left"><b>Discussion on adaptive methods</b> </td>
     <td align="left"></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Project final presentations.</td>
-    <td align="left"><b>2+ sessions</b></td> 
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
