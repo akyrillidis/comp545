@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>Office: DH 3119</td>
-    <td align="right">Classroom: DH 1046 </td> 
+    <td align="right">Classroom: DH 1075 </td> 
   </tr>
 </table>
 
@@ -38,26 +38,8 @@
   </tr>
 </table>
 
-Courses on machine learning (ML), artificial intelligence (AI), and signal processing (SP) abide by the following recipe: 
-first, they introduce models that well-describe a task at hand; then, rigorously back up these models with intuition, and finally propose basic algorithms that solve such objectives for learning, inference and estimation.
-And in most cases, a gradient-based algorithm is the solution to our problems that saves the day!
-
-Nevertheless, there are many papers that might have come to your attention, but go beyond plain gradient descent: 
-papers on momentum and acceleration; 
-papers with algorithms other than gradient descent, such as AdaGrad, Adam and RMSProp; 
-research on variance-reduced techniques and hyper-parameter tuning such as learning rate, mini batch size and regularization; 
-papers on gradient-variants that promote structures such as sparsity and low-rankness; 
-literature that discusses the matter of "convex vs. non-convex optimization" and how gradient descent behaves on each case; 
-papers that study the objective landscapes for saddle points and local minima; 
-papers that study how easy it is to distribute gradient descent computations; and so on...
-You might wonder "_what is so different and significant in all these cases, since gradient descent is what is used in each case after all?_"
-
-COMP 545 is a graduate-level course on optimization techniques and algorithms, as these are used in modern ML/AI/SP tasks.
-During this course, we will learn and study the above topics (both in depth and breadth).
-The course (i) will focus on different objective classes (convex vs. non-convex objectives, with constraints or not, etc.),
-(ii) will cover different optimization strategies within each class, 
-(iii) will study algorithmic choices based on computational resources (e.g., use of low-dimensional structures (when/why), asynchronous vs. synchronous algorithms, etc.)
-and (iv) lastly, will study schemes that handle some specific, but well-studied optimization constraints (sparsity, low-rankness).
+This course is a continuation of COMP 414/514: Optimization - Algorithms, Complexity, and Approxima- tions. The course includes a list of more advanced topics in optimization, including variants of gradient descent, such as AdaGrad, Adam and RMSProp; duality theory, and Lagrange multiplier methods and variants; Interior point methods; Mirror descent and the Multiplicative Weight Updates algorithm; Adver- sarial robustness; Generative Adversarial Networks, min-max optimization; Discrete optimization, convex relaxations and Introduction to Quantum Algorithms; Gaussian Processes for inference.
+The main objective of the course is to highlight optimization as a vital part of contemporary research in ML/AI/SP, and draw the attention of students to open-questions in related advanced topics. In particular, the aim for students is to (i) learn how to distinguish differences in research papers of related fields, (ii) understand the connection between them and how researchers advance each area, and (iii) be able to consider possible extensions of these works, as part of the final (open-ended) project of the course.
 
 
 ### Textbook
@@ -80,9 +62,8 @@ The main objective of the course is to highlight optimization as a vital part of
 In particular, the aim for students is to (i) learn how to distinguish differences in research papers of related fields, (ii) understand the connection between them and how researchers advance each area, and (iii) be able to consider possible extensions of these works, as part of the final (open-ended) project of the course. 
 
 After successful attendance, students are expected to: 
-- have a good understanding of the differences / difficulties of convex and non-convex optimization. 
-- have a good comprehension how optimization plays a key role in different areas of ML/AI/SP. 
-- have a first touch with various optimization-driven applications in ML/AI/SP. 
+- have a good understanding of more involved problem cases where optimization is used.
+- have a good comprehension how optimization plays a key role in different areas of research.
 - be able to read and review advanced papers on similar subjects, as well as present the papers in front of an audience.
 
 ```markdown
