@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>Office: DH 3119</td>
-    <td align="right">Classroom: DH 1046 </td> 
+    <td align="right">Classroom: DH 1075 </td> 
   </tr>
 </table>
 
@@ -49,20 +49,20 @@
   <col width="25%">
   <tr>
     <td>Lecture 1.</td>
-    <td align="left"> 2 sessions <a href="./Lectures/Lecture 1.pdf">(Slides)</a> <a href="./Lectures/Lecture 1.ipynb">(Notebook)</a> </td> 
+    <td align="left"> 1 session <a href="./Lectures/Lecture Notes 1.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 8 & 10) </td>
+    <td> (Jan. 15) </td>
     <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Motivation: Popular science and optimization</b> </td>
     <td align="left"><b>Overview of the course</b> </td>
-    <td align="left"><b>Course logistics</b> </td>
   </tr>
   <tr>
     <td></td>
     <td align="left"></td> 
-    <td align="left"><b>Background on linear algebra</b> </td>
+    <td align="left"><b>Course logistics</b> </td>
     <td align="left"></td>
   </tr>
 </table>
@@ -76,218 +76,25 @@
   <col width="25%">
   <tr>
     <td>Lecture 2.</td>
-    <td align="left"><b>3 sessions</b> <a href="./Lectures/Lecture 2.pdf">(Slides)</a> <a href="./Lectures/Lecture 2.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 2 notes.pdf">(Notes)</a> </td> 
+    <td align="left"><b>2 sessions</b> <a href="https://akyrillidis.github.io/comp414-514/">(COMP414/514)</a>  </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 15, 17 & 22) </td>
+    <td> (Jan. 21 & 23) </td>
     <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Smooth optimization</b> </td>
-    <td align="left"><b>Convex optimization</b> </td>
+    <td align="left"><b>Overview of smooth unconstrained optimization</b> </td>
+    <td align="left"><b>Intro to convex optimization</b> </td>
   </tr>
   <tr>
     <td></td>
     <td align="left"></td> 
-    <td align="left"><b>Lipschitz continuity, strong convexity and PL condition</b> </td>
-    <td align="left">Convergence rate results for convex optimization</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"></td> 
-    <td align="left"><b>Convex sets</b> </td>
+    <td align="left"><b>Gradient descent variants</b> </td>
     <td align="left"></td>
   </tr>
 </table>
 
 <hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Lecture 3.</td>
-    <td align="left"><b>4 sessions</b> <a href="./Lectures/Lecture 3.pdf">(Slides)</a> <a href="./Lectures/Lecture 3.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 3 notes.pdf">(Notes)</a></td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> (Jan. 22, 24, 29 & 31) </td>
-    <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Newton's method, Quasi-Newton variants</b> </td>
-    <td align="left"><b>Momentum acceleration</b> </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"></td> 
-    <td align="left"><b>SGD and its variants</b> </td>
-    <td align="left"><b>Coordinate descent variants</b></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Lecture 4.</td>
-    <td align="left"><b>1 session</b> <a href="./Lectures/Lecture 4.pdf">(Slides)</a> <a href="./Lectures/Lecture 4.ipynb">(Notebook)</a> </td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> (Feb. 5) </td>
-    <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Simple hyper-parameter tuning (1/2)</b> </td>
-    <td align="left"><b>Learning rate, regularization</b> </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"></td> 
-    <td align="left"><b>Mini-batch SGD</b> </td>
-    <td align="left"><b>Early stopping</b></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Lecture 5.</td>
-    <td align="left"><b>4 sessions</b> <a href="./Lectures/Lecture 5.pdf">(Slides)</a> <a href="./Lectures/Lecture 5.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 5 notes.pdf">(Notes)</a> </td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> (Feb. 7, 14, 21 & 26) </td>
-    <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Non-convex constraints in optimization</b> </td>
-    <td align="left"><b>Sparse model selection</b> </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"></td> 
-    <td align="left"><b>Hard-thresholding algorithms with hyper-parameter tuning</b> </td>
-    <td align="left"><b>Interlude: how statistics mingle with optimization</b></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Lecture 6.</td>
-    <td align="left"><b>4 sessions</b> <a href="./Lectures/Lecture 6.pdf">(Slides)</a> <a href="./Lectures/Lecture 6.ipynb">(Notebook)</a> <a href="./Lectures/Lecture 6 notes.pdf">(Notes)</a> </td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> (Feb. 26, 28 & Mar. 5, 7) </td>
-    <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Non-convex optimization for low-rank models</b> </td>
-    <td align="left"><b>Hard-thresholding methods</b> </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"></td> 
-    <td align="left"><b>Matrix factorization techniques</b> </td>
-    <td align="left"><b>Theoretical guarantees for matrix factorization</b></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Lecture 7.</td>
-    <td align="left"><b>2 sessions</b> <a href="./Lectures/Lecture 7.pdf">(Slides)</a> <a href="./Lectures/Lecture 7 notes.pdf">(Notes)</a> </td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> (Mar. 19 & 21) </td>
-    <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Function landscape characterization</b> </td>
-    <td align="left"><b>Stationary points, saddle points and local/global optima</b> </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"></td> 
-    <td align="left"><b>Ways to handle such cases</b> </td>
-    <td align="left"></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Lecture 8.</td>
-    <td align="left"><b>2 sessions</b> <a href="./Lectures/Lecture 8.pdf">(Slides)</a> <a href="./Lectures/Lecture 8 notes.pdf">(Notes)</a> </td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> (Mar. 26 & 28) </td>
-    <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Distributed computing in ML</b> </td>
-    <td align="left"><b>Synchrony vs. asynchrony</b> </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"></td> 
-    <td align="left"><b>Theoretical guarantees of HogWild!</b> </td>
-    <td align="left"></td>
-  </tr>
-</table>
-
-<hr/>
-
-<table style="width:100%">  
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <col width="25%">
-  <tr>
-    <td>Lecture 9.</td>
-    <td align="left"><b>2 sessions</b> <a href="./Lectures/Lecture 9.pdf">(Slides)</a> <a href="./Lectures/Lecture 9 notes.pdf">(Notes)</a> </td> 
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td align="left"><b>Includes:</b> </td> 
-    <td align="left"><b>Algorithms in modern ML</b> </td>
-    <td align="left"><b>AdaGrad, RMSProp, Adam</b> </td>
-  </tr>
-  <tr>
-    <td> (Apr. 2 & 4) </td>
-    <td align="left"></td> 
-    <td align="left"><b>Discussion on adaptive methods</b> </td>
-    <td align="left"></td>
-  </tr>
-</table>
 
 <br>
 <br>
