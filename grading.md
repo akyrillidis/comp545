@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>Office: DH 3119</td>
-    <td align="right">Classroom: DH 1046 </td> 
+    <td align="right">Classroom: DH 1075 </td> 
   </tr>
 </table>
 
@@ -41,10 +41,8 @@
 The grade is based on the following factors: 
 
 - 5% participation and attendance.
-- 10% scribing of notes.
-- 15% paper reviews - students will submit a review almost each week. 
-- 20% presentations
-- 50% final project
+- 25% presentations
+- 70% final project
 
 The instructor reserves the right to curve the scale dependent on overall class scores at the end of the semester. 
 The course has the format of "Satisfactory/Unsatisfactory", but the instructor will probably provide unofficially letter grades.
@@ -52,12 +50,7 @@ Any curve will only ever make it easier to obtain a certain letter grade.
 
 ### Scribing notes
 Every week, a different student (or group of students) will volunteer (otherwise, will be randomly selected) to take notes and prepare a short --but consistent-- note on the material presented each week.
-In case the attendance is low, this 10% of the final grade will be transferred to paper reviews (summing to 25%).
 A latex template will be shared by the instructor.
-
-### Reviews
-Key outcome of this course is be able to read, comprehend and (healthy) criticize research papers. Further, as a bonus, reviewing could potentially lead to final project topic suggestions (after discussion with the instructor).
-A successful review should be concise (maximum 2 pages, single column, 11pt): beyond main comments, it should include the summary of the paper, discuss its importance, novelty, clarity, and reveal strengths/weaknesses.
 
 ### Final project logistics
 
