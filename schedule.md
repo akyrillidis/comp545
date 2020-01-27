@@ -96,6 +96,33 @@
 
 <hr/>
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 3.</td>
+    <td align="left"><b>2 sessions</b> <a href="/Lectures/Lecture 2.pdf">(Slides)</a> <a href="/Lectures/Notes 2.pdf">(Notes)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Jan. 28 & 30) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Overview of algorithms in modern neural network training</b> </td>
+    <td align="left"><b>Focus on AdaGrad, RMSProp, Adam</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Discussion on the value of adaptive methods</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
 <br>
 <br>
 <br>
