@@ -91,7 +91,7 @@
   <col width="25%">
   <col width="75%">  
   <tr>
-    <td><b>Lecture 1.</b></td>
+    <td><b>Lecture 2.</b></td>
   </tr>
   <tr>
     <td>Textbook: </td>
