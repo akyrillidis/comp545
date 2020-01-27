@@ -87,3 +87,53 @@
 <hr/>
 
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 1.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><b> (None) </b></td>
+  </tr>
+  <br>
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b><a href="http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf">- Adaptive Subgradient Methods for Online Learning and Stochastic Optimization</a></b></td>    
+  </tr>  
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf">- RMSProp algorithm</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1412.6980.pdf">- Adam: A method for stochastic optimization</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1904.09237.pdf">- On the convergence of adam and beyond</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1910.04952.pdf">- Decaying momentum helps neural network training </a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1810.06801.pdf">- Quasi-hyperbolic momentum and Adam for deep learning
+ </a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1804.00325.pdf">- Aggregated Momentum: Stability Through Passive Damping </a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://ruder.io/optimizing-gradient-descent/">- An overview of gradient descent optimization algorithms</a></b></td> 
+  </tr> 
+
+</table>
+
+<hr/>
+
+
