@@ -103,7 +103,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 2.</td>
-    <td align="left"><b>2 sessions</b> <a href="/Lectures/2020/Lecture 2.pdf">(Slides)</a> <a href="/Lectures/2020/Notes 2.pdf">(Notes)</a> </td> 
+    <td align="left"><b>2 sessions</b> <a href="./Lectures/2020/Lecture 2.pdf">(Slides)</a> <a href="./Lectures/2020/Notes 2.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
