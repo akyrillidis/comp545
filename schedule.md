@@ -123,6 +123,33 @@
 
 <hr/>
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 3.</td>
+    <td align="left"><b>?? sessions</b> <a href="./Lectures/2020/Lecture 3.pdf">(Slides)</a> <a href="./Lectures/2020/Notes 3.pdf">(Notes)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Feb. 4, 6 & 18) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Constrained optimization, Lagrange multipliers</b> </td>
+    <td align="left"><b>Dual problems, Weak/strong duality and KKT conditions</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Dual ascent, augmented Lagrangian, dual decomposition, ADMM</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
 <br>
 <br>
 <br>
