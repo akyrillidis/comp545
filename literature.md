@@ -137,3 +137,35 @@
 <hr/>
 
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 2.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><b><a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">- Convex optimization (Chapter 5), Stephen Boyd and Lieven Vandenberghe</a></b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://mitpress.mit.edu/books/algorithms-optimization">- Algorithms for optimization (Chapter 10), Mykel Kochenderfer and Time Wheeler</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf">- Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers, S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein
+</a></b></td>    
+  </tr> 
+  <br>
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b> (None) </b></td>  
+  </tr>  
+
+</table>
+
+<hr/>
+
+
+
+
