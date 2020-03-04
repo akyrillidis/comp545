@@ -165,7 +165,7 @@
     <td> (Feb. 20, 25 & Mar. 3) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Interior point methods</b> </td>
-    <td align="left"><b>Barrier meethods</b> </td>
+    <td align="left"><b>Barrier methods</b> </td>
   </tr>
   <tr>
     <td></td>
