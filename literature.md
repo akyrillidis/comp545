@@ -166,6 +166,34 @@
 
 <hr/>
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 4.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><b><a href="https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf">- Convex optimization (Chapter 9.5-9.7, Chapter 11), Stephen Boyd and Lieven Vandenberghe</a></b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://theory.epfl.ch/vishnoi/Nisheeth-VishnoiFall2014-ConvexOptimization.pdf">- A mini-course on convex optimization (Chapter 3), Nisheeth Vishnoi</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1405.4980.pdf">- Convex Optimization: Algorithms and Complexity (Chapter 5.3), Sebastien Bubeck. </a></b></td>    
+  </tr> 
+  <br>
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b> (None) </b></td>  
+  </tr>  
+
+</table>
+
+<hr/>
+
 
 
 
