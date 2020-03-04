@@ -150,6 +150,33 @@
 
 <hr/>
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 4.</td>
+    <td align="left"><b>3 sessions</b> <a href="./Lectures/2020/Lecture 4.pdf">(Slides)</a> <a href="./Lectures/2020/Notes 4.pdf">(Notes)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Feb. 20, 25 & Mar. 3) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Interior point methods</b> </td>
+    <td align="left"><b>Barrier meethods</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Path following methods, complexity and convergence rate analysis overview</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
 <br>
 <br>
 <br>
