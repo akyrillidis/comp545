@@ -183,7 +183,7 @@
   <col width="25%">
   <col width="25%">
   <tr>
-    <td>Bonus Lecture.</td>
+    <td>Interlude.</td>
     <td align="left"><b>1 session</b> <a href="./Lectures/2020/Notes (bonus).pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
