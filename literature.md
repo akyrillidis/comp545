@@ -216,6 +216,24 @@
 
 </table>
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 6.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><b> (None) </b></td>    
+  </tr> 
+  <br>
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b> <a href="https://adversarial-ml-tutorial.org/">- Adversarial Robustness - Theory and Practice</a> </b></td>  
+  </tr>  
+
+</table>
+
 <hr/>
 
 
