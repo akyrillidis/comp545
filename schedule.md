@@ -177,6 +177,87 @@
 
 <hr/>
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Bonus Lecture.</td>
+    <td align="left"><b>1 session</b> <a href="./Lectures/2020/Notes (bonus).pdf">(Notes)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Mar. 5) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Applications for the settings considered so far</b> </td>
+    <td align="left"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"></td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 5.</td>
+    <td align="left"><b>4 sessions</b> <a href="./Lectures/2020/Notes 5.pdf">(Notes)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Mar. 24, 26, 31 & Apr. 2) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Majority weighted algorithm</b> </td>
+    <td align="left"><b>Multiplicative weights update (MWU) algorithm</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Test cases: solving LPs, Winnow algorithm, Adaboost</b> </td>
+    <td align="left"><b>MWU and mirror descent</b></td>
+  </tr>
+</table>
+
+<hr/>
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 6.</td>
+    <td align="left"><b>4 sessions</b> <a href="./Lectures/2020/Notes 5.pdf">(Notes)</a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Apr 7, 9, 14 & Apr. 16) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Adversarial robustness in ML as minmax opt.</b> </td>
+    <td align="left"><b>Algorithms for adversarial examplees</b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b>Algorithms for adversarial defense</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
 <br>
 <br>
 <br>
