@@ -213,8 +213,9 @@
     <td>Other references: </td>
     <td align="left"><b> <a href="https://www.cs.princeton.edu/~arora/pubs/MWsurvey.pdf">- The Multiplicative Weights Update Method: a Meta Algorithm and Applications</a> </b></td>  
   </tr>  
-
 </table>
+
+<hr/>
 
 <table style="width:100%">  
   <col width="25%">
