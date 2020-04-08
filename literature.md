@@ -194,6 +194,28 @@
 
 <hr/>
 
+<table style="width:100%">  
+  <col width="25%">
+  <col width="75%">  
+  <tr>
+    <td><b>Lecture 5.</b></td>
+  </tr>
+  <tr>
+    <td>Textbook: </td>
+    <td align="left"><b><a href="https://theory.epfl.ch/vishnoi/Nisheeth-VishnoiFall2014-ConvexOptimization.pdf">- A mini-course on convex optimization (Chapter 2), Nisheeth Vishnoi</a></b></td>    
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1405.4980.pdf">- Convex Optimization: Algorithms and Complexity (Chapter 4), Sebastien Bubeck. </a></b></td>    
+  </tr> 
+  <br>
+  <tr>
+    <td>Other references: </td>
+    <td align="left"><b> <a href="https://www.cs.princeton.edu/~arora/pubs/MWsurvey.pdf">- The Multiplicative Weights Update Method: a Meta Algorithm and Applications</a> </b></td>  
+  </tr>  
 
+</table>
+
+<hr/>
 
 
