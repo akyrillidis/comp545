@@ -189,7 +189,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Mar. 5) </td>
+    <td> (if needed) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Applications for the settings considered so far</b> </td>
     <td align="left"></td>
@@ -216,7 +216,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Mar. 24, 26, 31 & Apr. 2) </td>
+    <td> (Mar. 11, 16, 18 & 23) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Majority weighted algorithm</b> </td>
     <td align="left"><b>Multiplicative weights update (MWU) algorithm</b> </td>
