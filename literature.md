@@ -81,6 +81,10 @@
     <td></td>
     <td align="left"><b><a href="https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/">- On "Quantum" supremacy </a></b></td> 
   </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="nature.com/articles/d41586-020-03434-7">- Physicists in China challenge Google's 'quantum advantage' </a></b></td> 
+  </tr> 
 
 </table>
 
