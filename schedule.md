@@ -103,12 +103,12 @@
   <col width="25%">
   <tr>
     <td>Lecture 2.</td>
-    <td align="left"><b>2 sessions</b> <a href="./Lectures/2020/Lecture 2.pdf">(Slides)</a> <a href="./Lectures/2020/Notes 2.pdf">(Notes)</a> </td> 
+    <td align="left"><b>2 sessions + presentation day</b> <a href="./Lectures/2020/Lecture 2.pdf">(Slides)</a> <a href="./Lectures/2020/Notes 2.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> (Feb. 4 & 9) </td>
+    <td> (Feb. 4, 9 & 11) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Overview of algorithms in modern neural network training</b> </td>
     <td align="left"><b>Focus on AdaGrad, RMSProp, Adam</b> </td>
@@ -130,12 +130,12 @@
   <col width="25%">
   <tr>
     <td>Lecture 3.</td>
-    <td align="left"><b>3 sessions</b> <a href="./Lectures/2020/Lecture 3.pdf">(Slides)</a> <a href="./Lectures/2020/Notes 3.pdf">(Notes)</a> </td> 
+    <td align="left"><b>3 sessions + presentation day</b> <a href="./Lectures/2020/Lecture 3.pdf">(Slides)</a> <a href="./Lectures/2020/Notes 3.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> (Feb. 4, 6 & 18) </td>
+    <td> (Feb. 16, 18, 23 & 25) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Constrained optimization, Lagrange multipliers</b> </td>
     <td align="left"><b>Dual problems, Weak-strong duality and KKT conditions</b> </td>
