@@ -135,6 +135,22 @@
     <td></td>
     <td align="left"><b><a href="https://ruder.io/optimizing-gradient-descent/">- An overview of gradient descent optimization algorithms</a></b></td> 
   </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/2010.07468">- AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/2006.00719">- ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/2006.08217">- AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights</a></b></td> 
+  </tr> 
+  tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/abs/1908.03265">- On the Variance of the Adaptive Learning Rate and Beyond</a></b></td> 
+  </tr> 
 
 </table>
 
