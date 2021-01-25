@@ -14,11 +14,11 @@
   </tr>
   <tr>
     <td>Office hours: By appointment </td>
-    <td align="right">Class hours: T\TH 14:30 - 15:45</td> 
+    <td align="right">Class hours: T\TH 15:10 - 16:30</td> 
   </tr>
   <tr>
     <td>Office: DH 3119</td>
-    <td align="right">Classroom: DH 1075 </td> 
+    <td align="right">Classroom: Online </td> 
   </tr>
 </table>
 
