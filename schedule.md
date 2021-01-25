@@ -238,7 +238,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 6.</td>
-    <td align="left"><b>4 sessions</b> <a href="./Lectures/2020/Notes 5.pdf">(Notes)</a> </td> 
+    <td align="left"><b>4 sessions</b> <a href="./Lectures/2020/Notes 6.pdf">(Notes)</a> </td> 
     <td></td>
     <td></td>
   </tr>
@@ -252,6 +252,90 @@
     <td></td>
     <td align="left"></td> 
     <td align="left"><b>Algorithms for adversarial defense</b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 6.</td>
+    <td align="left"><b>2 sessions</b></a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Apr. 8 & 13) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>A case of discrete optimization over quadratic forms</b> </td>
+    <td align="left"><b></b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b></b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 6.</td>
+    <td align="left"><b>2 sessions</b></a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Apr. 15 & 20) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>TBD</b> </td>
+    <td align="left"><b></b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b></b> </td>
+    <td align="left"></td>
+  </tr>
+</table>
+
+<hr/>
+
+
+<table style="width:100%">  
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <col width="25%">
+  <tr>
+    <td>Lecture 6.</td>
+    <td align="left"><b>2-3 sessions</b></a> </td> 
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> (Apr. 22 - end) </td>
+    <td align="left"><b>Includes:</b> </td> 
+    <td align="left"><b>Student presentations</b> </td>
+    <td align="left"><b></b> </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="left"></td> 
+    <td align="left"><b></b> </td>
     <td align="left"></td>
   </tr>
 </table>
