@@ -147,7 +147,7 @@
     <td></td>
     <td align="left"><b><a href="https://arxiv.org/abs/2006.08217">- AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights</a></b></td> 
   </tr> 
-  tr>
+  <tr>
     <td></td>
     <td align="left"><b><a href="https://arxiv.org/abs/1908.03265">- On the Variance of the Adaptive Learning Rate and Beyond</a></b></td> 
   </tr> 
@@ -179,8 +179,18 @@
   <br>
   <tr>
     <td>Other references: </td>
-    <td align="left"><b> (None) </b></td>  
-  </tr>  
+    <tr>
+    <td></td>
+    <td align="left"><b><a href="https://ml4eng.github.io/camera_readys/43.pdf">- Differentiable Implicit Layers</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1909.04866.pdf">- Deep Declarative Networks: A New Hope</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1912.02175.pdf">- Differentiation of Blackbox Combinatorial Solvers</a></b></td> 
+  </tr> 
 
 </table>
 
