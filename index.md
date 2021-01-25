@@ -50,11 +50,7 @@ Links to resources will be provided during the course.
 
 ### Prerequisites
 
-Basics of calculus, linear algebra and basic knowledge of machine learning topics. 
-Programming skills are not necessary, but might be required, depending on the project selected at the end of the course.
-In the latter case, programming in Python/Matlab could be sufficient.
-
-During the first class, a quiz will be given to the students to assess their background; this quiz is going to be used for course content assessment (edits in the syllabus will possibly occur).
+Basics of calculus, linear algebra and basic knowledge of machine learning topics or COMP 414/514.
 
 ### Course outcomes
 
