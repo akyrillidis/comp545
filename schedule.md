@@ -243,10 +243,10 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Apr 7, 9, 14 & Apr. 16) </td>
+    <td> (Mar. 25, 30 & Apr. 1, 6) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Adversarial robustness in ML as minmax opt.</b> </td>
-    <td align="left"><b>Algorithms for adversarial examplees</b> </td>
+    <td align="left"><b>Algorithms for adversarial examples</b> </td>
   </tr>
   <tr>
     <td></td>
