@@ -162,7 +162,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Feb. 20, 25 & Mar. 3) </td>
+    <td> (Mar. 2, 4 & 9) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Interior point methods</b> </td>
     <td align="left"><b>Barrier methods</b> </td>
