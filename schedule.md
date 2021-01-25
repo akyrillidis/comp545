@@ -54,7 +54,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 15) </td>
+    <td> (Jan. 26) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Motivation: Popular science and optimization</b> </td>
     <td align="left"><b>Overview of the course</b> </td>
@@ -81,7 +81,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 21 & 23) </td>
+    <td> (Jan. 28 & Feb. 2) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Overview of smooth unconstrained optimization</b> </td>
     <td align="left"><b>Intro to convex optimization</b> </td>
@@ -108,7 +108,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 28 & 30) </td>
+    <td> (Feb. 4 & 9) </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Overview of algorithms in modern neural network training</b> </td>
     <td align="left"><b>Focus on AdaGrad, RMSProp, Adam</b> </td>
