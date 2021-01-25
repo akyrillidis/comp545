@@ -38,19 +38,21 @@
   </tr>
 </table>
 
+### Course format and structure
+
+There will be a traditionally formatted series of lectures via Zoom. Students are supposed to present papers after the end of “chapters", presenting recent advances on the topics discussed. During lectures or presentations, participation with questions / comments is encouraged.
+The papers to be presented will be selected from a pile of papers that are related to the topics of the course and will be provided by the instructor.
+
 The grade is based on the following factors: 
 
 - 5% participation and attendance.
 - 25% presentations
 - 70% final project
 
-The instructor reserves the right to curve the scale dependent on overall class scores at the end of the semester. 
-The course has the format of "Satisfactory/Unsatisfactory", but the instructor will probably provide unofficially letter grades.
-Any curve will only ever make it easier to obtain a certain letter grade.
+The instructor reserves the right to curve the scale dependent on overall class scores at the end of the semester. Any curve will only ever make it easier to obtain a certain letter grade.
 
-### Scribing notes
-Every week, a different student (or group of students) will volunteer (otherwise, will be randomly selected) to take notes and prepare a short --but consistent-- note on the material presented each week.
-A latex template will be shared by the instructor.
+### Scribing notes (bonus)
+Every week, a different student (or group of students) can volunteer (otherwise, will be randomly selected) to take notes and prepare a short –but consistent– note on the material presented each week. A latex template will be shared by the instructor.
 
 ### Final project logistics
 
