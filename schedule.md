@@ -266,7 +266,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 7.</td>
-    <td align="left"><b>2 sessions</b></a> </td> 
+    <td align="left"><b>2 sessions</b></td> 
     <td></td>
     <td></td>
   </tr>
@@ -294,7 +294,7 @@
   <col width="25%">
   <tr>
     <td>Lecture 8.</td>
-    <td align="left"><b>2 sessions</b></a> </td> 
+    <td align="left"><b>2 sessions</b></td> 
     <td></td>
     <td></td>
   </tr>
@@ -322,7 +322,7 @@
   <col width="25%">
   <tr>
     <td>Seminar</td>
-    <td align="left"><b>2-3 sessions</b></a> </td> 
+    <td align="left"><b>2-3 sessions</b> </td> 
     <td></td>
     <td></td>
   </tr>
