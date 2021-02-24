@@ -152,7 +152,6 @@
     <td align="left"><b><a href="https://arxiv.org/abs/1908.03265">- On the Variance of the Adaptive Learning Rate and Beyond</a></b></td> 
   </tr> 
 </table>
-<hr/>
 
 <table style="width:100%">  
   <col width="25%">
@@ -215,7 +214,6 @@
     <td>Other references: </td>
     <td align="left"><b> (None) </b></td>  
   </tr>  
-
 </table>
 
 <hr/>
