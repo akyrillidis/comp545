@@ -54,7 +54,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 26) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Motivation: Popular science and optimization</b> </td>
     <td align="left"><b>Overview of the course</b> </td>
@@ -81,7 +81,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Jan. 28 & Feb. 2) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Overview of smooth unconstrained optimization</b> </td>
     <td align="left"><b>Intro to convex optimization</b> </td>
@@ -108,7 +108,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Feb. 4, 9 & 11) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Overview of algorithms in modern neural network training</b> </td>
     <td align="left"><b>Focus on AdaGrad, RMSProp, Adam</b> </td>
@@ -135,7 +135,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Feb. 16, 18, 23 & 25) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Constrained optimization, Lagrange multipliers</b> </td>
     <td align="left"><b>Dual problems, Weak-strong duality and KKT conditions</b> </td>
@@ -162,7 +162,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Mar. 2, 4 & 9) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Interior point methods</b> </td>
     <td align="left"><b>Barrier methods</b> </td>
@@ -189,7 +189,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (if needed) </td>
+    <td> </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Applications for the settings considered so far</b> </td>
     <td align="left"></td>
@@ -216,7 +216,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Mar. 11, 16, 18 & 23) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Majority weighted algorithm</b> </td>
     <td align="left"><b>Multiplicative weights update (MWU) algorithm</b> </td>
@@ -243,7 +243,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Mar. 25, 30 & Apr. 1, 6) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Adversarial robustness in ML as minmax opt.</b> </td>
     <td align="left"><b>Algorithms for adversarial examples</b> </td>
@@ -271,7 +271,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Apr. 8 & 13) </td>
+    <td> </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>A case of discrete optimization over quadratic forms</b> </td>
     <td align="left"><b></b> </td>
@@ -299,7 +299,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Apr. 15 & 20) </td>
+    <td>  </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>TBD</b> </td>
     <td align="left"><b></b> </td>
@@ -327,7 +327,7 @@
     <td></td>
   </tr>
   <tr>
-    <td> (Apr. 22 - end) </td>
+    <td> </td>
     <td align="left"><b>Includes:</b> </td> 
     <td align="left"><b>Student presentations</b> </td>
     <td align="left"><b></b> </td>
