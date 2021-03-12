@@ -152,6 +152,7 @@
     <td align="left"><b><a href="https://arxiv.org/abs/1908.03265">- On the Variance of the Adaptive Learning Rate and Beyond</a></b></td> 
   </tr> 
 
+<hr/>
 
 <table style="width:100%">  
   <col width="25%">
@@ -186,6 +187,23 @@
   <tr>
     <td></td>
     <td align="left"><b><a href="https://arxiv.org/pdf/1912.02175.pdf">- Differentiation of Blackbox Combinatorial Solvers</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1905.12149.pdf">- SATNet: Bridging deep learning and logical reasoning using a differentiable
+satisfiability solver</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1910.12430.pdf">- Differentiable Convex Optimization Layers</a></b></td> 
+  </tr> 
+  <tr>
+    <td></td>
+    <td align="left"><b><a href="https://arxiv.org/pdf/1806.10175.pdf">- Learning a Compressed Sensing Measurement Matrix via Gradient Unrolling (and references therein) </a></b></td> 
+  </tr> 
+    <tr>
+    <td></td>
+    <td align="left"><b><a href="http://proceedings.mlr.press/v70/amos17a/amos17a.pdf">- OptNet: Differentiable Optimization as a Layer in Neural Networks</a></b></td> 
   </tr> 
 </table>
 
