@@ -230,8 +230,11 @@ satisfiability solver</a></b></td>
   <tr>
     <td>Other references: </td>
     <td align="left"><b><a href="http://proceedings.mlr.press/v48/abernethy16.pdf">- Faster Convex Optimization: Simulated Annealing with an Efficient Universal Barrier </a></b></td> 
-    <td align="left"><b><a href="https://arxiv.org/pdf/2101.08208.pdf">- Solving Tall Dense SDPs in the Current Matrix Multiplication Time (especially the references therein for a background on TCS + IPM) </a></b></td> 
   </tr>  
+  <tr>
+    <td></td>
+<td align="left"><b><a href="https://arxiv.org/pdf/2101.08208.pdf">- Solving Tall Dense SDPs in the Current Matrix Multiplication Time (especially the references therein for a background on TCS + IPM) </a></b></td> 
+  </tr>
 </table>
 
 <hr/>
