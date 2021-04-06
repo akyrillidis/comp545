@@ -85,7 +85,6 @@
     <td></td>
     <td align="left"><b><a href="nature.com/articles/d41586-020-03434-7">- Physicists in China challenge Google's 'quantum advantage' </a></b></td> 
   </tr> 
-
 </table>
 
 <hr/>
